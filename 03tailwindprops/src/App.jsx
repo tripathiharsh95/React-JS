@@ -15,7 +15,7 @@ function App() {
 
   return (
     <>
-      <h1 className='bg-green-400 text-black p-4'>Tailwind CSS</h1>
+      <h1 className='bg-green-400 text-black p-4 '>Tailwind CSS</h1>
       <Card username="hacker" btnText="click me"/>
       <Card username="Harsh" btnText="visit me"/>
     </>
